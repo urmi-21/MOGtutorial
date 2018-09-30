@@ -1,0 +1,2 @@
+# MOGtutorial
+Introduction to MOG
